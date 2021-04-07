@@ -1,0 +1,8 @@
+#
+# QC MSG Config.yml
+#
+ZombieNormalSpawn: '&eNormal Zombie Has Been Spawned!'
+ZombieHelmetSpawn: '&eHelmet Zombie Has Been Spawned!'
+ZombieChestSpawn: '&eChestplate Zombie Has Been Spawned!'
+ZombieLeggingSpawn: '&eLeggings Zombie Has Been Spawned!'
+ZombieBootSpawn: '&eBoots Zombie Has Been Spawned!'

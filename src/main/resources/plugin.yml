@@ -1,0 +1,14 @@
+name: QCMSG
+version: ${project.version}
+main: me.rismose.qcmsg.QCMSG
+api-version: 1.16
+authors: [ Rismose ]
+description: Mob spawn GUI for QC
+website: rismose.xyz
+commands:
+  qc:
+    description: A MobSpawn GUI
+    usage: /<command>
+    aliases:
+      - mobmenu
+      - mobs
